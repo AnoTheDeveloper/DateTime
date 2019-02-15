@@ -1,0 +1,9 @@
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\bin\Debug\DateTime feladat.exe.config
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\bin\Debug\DateTime feladat.exe
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\bin\Debug\DateTime feladat.pdb
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\obj\Debug\DateTime feladat.csprojResolveAssemblyReference.cache
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\obj\Debug\DateTime_feladat.Form1.resources
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\obj\Debug\DateTime_feladat.Properties.Resources.resources
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\obj\Debug\DateTime feladat.csproj.GenerateResource.Cache
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\obj\Debug\DateTime feladat.exe
+C:\Users\Suli\Desktop\DateTime feladat\DateTime feladat\obj\Debug\DateTime feladat.pdb
